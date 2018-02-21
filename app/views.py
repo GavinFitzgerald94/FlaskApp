@@ -6,5 +6,5 @@ def index():
         returnDict = {}
         returnDict['title'] = 'Home'
         returnDict['sysInfo'] = main()
-        return render_template("index.html", **returnDict)
+        return render_template("templates/index.html", **returnDict)
         
