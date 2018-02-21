@@ -7,7 +7,7 @@ author: Gavin Fitzgerald
 Overview
 --------
 
-A simple flask application that shows system information. This application assumes the package "FindSystemInformation" has been installed. To install this package please go to 
+A simple flask application that shows system information. This application assumes the package "FindSystemInformation" has been installed. To install this package please go to https://github.com/GavinFitzgerald94/FindSystemInformation and follow installation instructions.
 
 Installation / Usage
 --------------------
