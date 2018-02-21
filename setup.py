@@ -37,4 +37,5 @@ setup(
     install_requires=install_requires,
     dependency_links=dependency_links,
     author_email='gavin.fitzgerald@ucdconnect.ie'
+    
 )
