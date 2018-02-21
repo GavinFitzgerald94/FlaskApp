@@ -36,6 +36,6 @@ setup(
     author='Gavin Fitzgerald',
     install_requires=install_requires,
     dependency_links=dependency_links,
-    author_email='gavin.fitzgerald@ucdconnect.ie'
-    
+    author_email='gavin.fitzgerald@ucdconnect.ie',
+    scripts=['bin/runFlaskApp'],
 )
