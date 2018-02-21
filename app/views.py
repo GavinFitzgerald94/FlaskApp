@@ -1,7 +1,7 @@
 from flask import render_template
 from app import app
 from FindSystemInformation.main import main
-set FLASK_APP = views.py
+export FLASK_APP=views.py
 flask run
 @app.route('/')
 def index():
