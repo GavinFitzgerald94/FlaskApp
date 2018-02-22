@@ -25,11 +25,11 @@ Or clone the repo:
     
 To Use (terminal):
 	
-	1 - Clone the repository to your system
-	2 - Move into the FlaskApp directory
+	1 - Clone the repository to your system (see https://git-scm.com/docs/git-clone for information on clone usage)
+	2 - Move into the "FlaskApp" directory
 	3 - Run the following command :
 		"python run.py"
-	4 - Application will be running on local port 5000
+	4 - Application will be running locally on your system through port 50000
 
 To View :
 
