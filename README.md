@@ -25,10 +25,11 @@ Or clone the repo:
     
 To Use (terminal):
 	
-	1 - Move into the FlaskApp directory
-	2 - Run the following command :
+	1 - Clone the repository to your system
+	2 - Move into the FlaskApp directory
+	3 - Run the following command :
 		"python run.py"
-	3 - Application will be running on local port 5000
+	4 - Application will be running on local port 5000
 
 To View :
 
