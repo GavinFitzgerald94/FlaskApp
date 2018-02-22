@@ -2,7 +2,7 @@ from flask import render_template
 from app import app
 from FindSystemInformation.main import main
 import os
-os.system("/Users/gavin/Desktop/Semester2/comp30670/FlaskApp/app")
+os.system("export FLASK_APP=/Users/gavin/Desktop/Semester2/comp30670/FlaskApp")
 @app.route('/')
 def index():
         returnDict = {}
