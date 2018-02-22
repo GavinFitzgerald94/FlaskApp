@@ -1,8 +1,8 @@
 from flask import render_template
+from flask import FLASK_APP
 from app import app
 from FindSystemInformation.main import main
-export FLASK_APP=views.py
-flask run
+FLASK_APP=views.py
 @app.route('/')
 def index():
         returnDict = {}
